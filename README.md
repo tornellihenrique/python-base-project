@@ -1,8 +1,8 @@
 # PROJETO BASE PYTHON
 
-## Organização básica de arquivos de um projeto python.
+### Organização básica de arquivos de um projeto python.
 
-> Por Henrique Tornelli Duarte
+> Henrique Tornelli Duarte
 
 ### Instalação de dependências
 
@@ -10,4 +10,5 @@
 $ make
 ```
 
-[![Python](3.7.2)]
+| Python | Version 3.7.2 |
+| ------ | ------------- |
