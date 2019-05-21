@@ -2,7 +2,7 @@
 
 ### Organização básica de arquivos de um projeto python.
 
-> Henrique Tornelli Duarte
+Um simples projeto base com os iniciais diretórios para facilitar sua vida.
 
 ### Instalação de dependências
 
